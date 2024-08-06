@@ -25,13 +25,6 @@
     flex-direction: column;
     justify-content: center;
 }
-/* .hello{
-    font-size: 1.75rem;
-    font-weight: 100;
-}
-.introName{
-    color: #ffff00c5;
-} */
 .introPara{
     font-size: medium;
     font-weight: 300;
@@ -89,10 +82,6 @@
     }
 
     }
-  
-  
-  
-  
   @media screen and (max-width: 1200px) {
     .tags,
     .home-page h1:before,

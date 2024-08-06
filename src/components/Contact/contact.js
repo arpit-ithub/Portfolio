@@ -30,7 +30,6 @@ function Contact() {
         <a href="https://www.linkedin.com/in/arpit-ithub/" target="_blank" rel="noreferrer" >
             <FontAwesomeIcon
               icon={faLinkedin}
-              // color="#ffff00c6"
               className="link"
             />
           </a>
@@ -41,7 +40,6 @@ function Contact() {
           >
             <FontAwesomeIcon
               icon={faGithub}
-              // color="#ffff00c6"
               className="link"
             />
           </a>         
