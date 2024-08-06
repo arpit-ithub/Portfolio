@@ -23,12 +23,7 @@ function Intro() {
   return (
     <section id="intro" className="container home-page">
       <div className="text-zone">
-        {/* <span className="hello">Hello,</span>
-        <span className="introText">
-          I'm <span className="introName">Arpit</span>
-          <br />
-          Frontend Developer
-        </span> */}
+      
         <h1>
             <span className={letterClass}>H</span>
             <span className={`${letterClass} _12`}>i,</span>
