@@ -55,4 +55,10 @@
     height: 3rem;
     width: 3rem;
     margin: 0 0.75rem;
+    color: #ffff00c6;
+}
+.link:hover{
+    height: 3.2rem;
+    width: 3.2rem;
+    color: #ffff00;
 }
